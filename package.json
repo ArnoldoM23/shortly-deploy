@@ -10,7 +10,7 @@
     "node": "^0.12.7"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
